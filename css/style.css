@@ -1,0 +1,16 @@
+/* style.css */
+
+.comp-logo {
+	
+	display:block;
+	width:150px;
+	height:150px;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+.err-txt {
+	color: red;
+}
+
